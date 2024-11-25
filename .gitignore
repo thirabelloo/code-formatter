@@ -1,0 +1,11 @@
+# Environments
+.env
+.venv
+venv
+
+# Unit test / coverage reports
+.coverage
+.coverage.*
+
+# Jupyter Notebook
+.ipynb_checkpoints
